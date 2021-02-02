@@ -1,4 +1,4 @@
 package koschei.models;
 
-public class Deth8 {
+public class Death8 {
 }
